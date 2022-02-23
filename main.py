@@ -7,6 +7,7 @@ file1 = open("rules/age.txt", "r")
 age_check = int(file1.read())
 file1.close()
 # Test 1
+# Test 2
 
 file2 = open("rules/height.txt", "r")
 height_check = int(file2.read())
