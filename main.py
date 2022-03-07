@@ -9,7 +9,6 @@ file1.close()
 # Test 1
 # Test 2
 # Test 3
-# Test 4
 
 file2 = open("rules/height.txt", "r")
 height_check = int(file2.read())
