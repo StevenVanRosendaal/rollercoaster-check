@@ -13,6 +13,7 @@ print("Steven van Rosendaal")
 print("instappen")
 
 #test
+#test2
 
 file2 = open("rules/height.txt", "r")
 height_check = int(file2.read())
