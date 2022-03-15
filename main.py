@@ -12,6 +12,8 @@ file1.close()
 print("Steven van Rosendaal")
 print("instappen")
 
+#test
+
 file2 = open("rules/height.txt", "r")
 height_check = int(file2.read())
 file1.close()
