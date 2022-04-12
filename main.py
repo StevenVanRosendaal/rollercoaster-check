@@ -12,6 +12,7 @@ file1.close()
 # Test 4
 # Test 5
 # Test 6
+# Test 7
 print("Steven van Rosendaal")
 print("instappen")
 
